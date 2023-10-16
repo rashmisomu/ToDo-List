@@ -21,7 +21,7 @@ Simple and intuitive user interface.
 Clone the repository to your local machine:
 bash
 Copy code
-git clone <repository-url>
+git clone  url
 Open index.html in your web browser.
 Use the "Add" button to add tasks to the list.
 To delete a task, click on the task item.
