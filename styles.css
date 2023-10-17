@@ -1,0 +1,19 @@
+
+h2 {
+ text-align: center;
+ width: 500px;
+ height: 50px;
+ background-color: #C5DFF8;
+ border-radius: 20px;
+ margin-left: 500px;
+ padding-top: 13px;
+
+}
+
+input {
+
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
