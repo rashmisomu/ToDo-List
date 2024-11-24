@@ -22,7 +22,7 @@ This is a user-friendly to-do list application that allows you to manage tasks w
 
 2. Open index.html in your web browser.
 3. Use the "Add" button to add tasks to the list.
-4.To delete a task, click on the task item.
+4. To delete a task, click on the task item.
 
 
 
