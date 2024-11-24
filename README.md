@@ -14,18 +14,16 @@ This is a user-friendly to-do list application that allows you to manage tasks w
 - Hover and click animations for interactive buttons and tasks.
 - Optimized for both desktop and mobile views.
 
+**How to Use**
 
-<b>How to Use</b>
+1. Clone the repository to your local machine:
+   ```bash
+   git clone [url]
 
-<pre>
-Clone the repository to your local machine:
-bash
-Copy code
-git clone  url
 Open index.html in your web browser.
 Use the "Add" button to add tasks to the list.
 To delete a task, click on the task item.
-</pre>
+
 
 <b>Technologies Used</b>
 
