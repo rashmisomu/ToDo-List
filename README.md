@@ -19,10 +19,11 @@ This is a user-friendly to-do list application that allows you to manage tasks w
 1. Clone the repository to your local machine:
    ```bash
    git clone [url]
-
+<pre>
 Open index.html in your web browser.
 Use the "Add" button to add tasks to the list.
 To delete a task, click on the task item.
+</pre>
 
 
 <b>Technologies Used</b>
