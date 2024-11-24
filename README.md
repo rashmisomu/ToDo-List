@@ -1,19 +1,19 @@
 # To-Do List Application
 
-<b>Description</b>
 
-<pre>
-This is a basic to-do list application where you can add tasks using the "Add" button 
-and delete them by clicking on the task.
-</pre>
+**Description**
 
-<b>Features</b>
+This is a user-friendly to-do list application that allows you to manage tasks with ease. You can add tasks to your list using the "Add" button, mark tasks as completed, and delete them by clicking on the task. The application features smooth animations and an interactive interface, designed to make task management more efficient and visually appealing.
 
-<pre>
-Add tasks to the list.
-Delete tasks by clicking on them.
-Simple and intuitive user interface.
-</pre>
+**Features**
+
+- Add tasks to the list with the "Add" button.
+- Delete tasks by clicking on the task item.
+- Mark tasks as completed, which strikes through the task and changes its background color.
+- A responsive and clean user interface.
+- Hover and click animations for interactive buttons and tasks.
+- Optimized for both desktop and mobile views.
+
 
 <b>How to Use</b>
 
@@ -33,4 +33,5 @@ To delete a task, click on the task item.
 HTML
 CSS
 JavaScript
+React
 </pre>
